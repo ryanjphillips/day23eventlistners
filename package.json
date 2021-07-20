@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ryanjphillips/day23eventlisteners/issues"
   },
-  "homepage": "https://github.com/ryanjphillips/day23eventlisteners#readme"
+  "homepage": "https://github.com/ryanjphillips/day23eventlisteners#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
 }
