@@ -29,6 +29,7 @@ input.text-input{
     margin: 20px;
     padding: 0px;
     border: solid thin #7EBF8E;
+    text-align: center;
 }
 
 button.input-button{
